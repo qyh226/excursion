@@ -28,6 +28,17 @@ section {
     margin: 40px 0;
 }
 
+/* Video Section */
+.video-section {
+    margin: 30px auto;
+}
+
+.video-section video {
+    width: 100%;
+    max-width: 404px;
+    height: auto;
+}
+
 /* Travel Guide Section */
 .travel-guide h2 {
     font-family: Verdana, sans-serif;
@@ -49,18 +60,24 @@ section {
     color: white;
 }
 
-/* Images and Video */
-video, img {
-    max-width: 100%;
-    margin: 20px 0;
-}
-
+/* Images */
 .camping-image {
     margin: 30px 0;
 }
 
+.camping-image img {
+    max-width: 100%;
+    width: auto;
+    height: auto;
+}
+
 .phone-icon {
     margin: 30px 0;
+}
+
+.phone-icon img {
+    width: 32px;
+    height: auto;
 }
 
 /* Footer */

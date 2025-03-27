@@ -1,0 +1,75 @@
+/* Global Styles */
+body {
+    background-color: black;
+    text-align: center;
+    font-family: Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+
+/* Header Styles */
+h1 {
+    font-size: 50px;
+    font-weight: normal;
+    color: white;
+    margin-top: 50px;
+}
+
+/* Link Styles */
+.cta-link {
+    color: aquamarine;
+    font-size: 16px;
+    text-decoration: underline;
+}
+
+/* Section Styles */
+section {
+    margin: 40px 0;
+}
+
+/* Travel Guide Section */
+.travel-guide h2 {
+    font-family: Verdana, sans-serif;
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+
+.travel-guide p {
+    font-size: 21px;
+    color: gray;
+}
+
+/* Coming Soon Section */
+.coming-soon h2 {
+    font-family: Verdana, sans-serif;
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+
+/* Images and Video */
+video, img {
+    max-width: 100%;
+    margin: 20px 0;
+}
+
+.camping-image {
+    margin: 30px 0;
+}
+
+.phone-icon {
+    margin: 30px 0;
+}
+
+/* Footer */
+footer {
+    text-align: right;
+    color: gray;
+    padding: 20px;
+}
+
+footer p {
+    margin: 0;
+} 
